@@ -1,6 +1,6 @@
 # Program that notifies you when a course is open 
 
-This program uses [Selenium Webdriver]("https://www.seleniumhq.org/") to automate checking course status on UWaterloo's quest portal. Whenever the course of interest is open, the program notifies a user.  
+This program uses [Selenium Webdriver](https://www.seleniumhq.org/) to automate checking course status on UWaterloo's quest portal. Whenever the course of interest is open, the program notifies a user.  
 Currently headless PhantomJS driver and browser-based ChromeDrive are supported.  
 
 
