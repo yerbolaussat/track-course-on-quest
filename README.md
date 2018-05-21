@@ -5,7 +5,7 @@ Currently headless PhantomJS driver and browser-based ChromeDrive are supported.
 
 
 ### TO-DO:  
-- [x] Implement course status inquiries with Selenium Webdriver
+- [x] Implement course status inquiries from Quest portal with Selenium Webdriver
 - [x] Implement notifications when a course opens
 - [ ] Send a text message / email to the user once the course is open
 - [ ] Automatically register a user for a course
